@@ -5,7 +5,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>JAVA</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+        <img height="64px" src="[https://www.vectorlogo.zone/logos/java/java-icon.svg](https://www.vectorlogo.zone/logos/java/java-ar21.svg)">
       </td>
       <td width="25%" align="center">
         <span>Typescript</span><br><br><br>
