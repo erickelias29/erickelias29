@@ -1,7 +1,19 @@
-## Lenguajes de programación
-
-A continuación se muestran los lenguajes de programación utilizados en mis proyectos, junto con sus respectivos logos:
-
-![](https://camo.githubusercontent.com/452895baa2094e56cc54bd7a6a79a436ac405b2ede0fbddf812d0b8f35677cad/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e67696e782f6e67696e782d617232312e737667)
-![](https://camo.githubusercontent.com/452895baa2094e56cc54bd7a6a79a436ac405b2ede0fbddf812d0b8f35677cad/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e67696e782f6e67696e782d617232312e737667)
-![](https://camo.githubusercontent.com/452895baa2094e56cc54bd7a6a79a436ac405b2ede0fbddf812d0b8f35677cad/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e67696e782f6e67696e782d617232312e737667)
+Python: [![Python](https://camo.githubusercontent.com/452895baa2094e56cc54bd7a6a79a436ac405b2ede0fbddf812d0b8f35677cad/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e67696e782f6e67696e782d617232312e737667)](https://www.python.org/)
+JavaScript: [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
+TypeScript: [![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
+C#: [![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+Java: [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+React: [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+Angular: [![Angular](https://img.icons8.com/color/48/000000/angularjs.png)](https://angular.io/)
+CSS: [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+HTML: [![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+Node.js: [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+MySQL: [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
+PostgreSQL: [![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)](https://www.postgresql.org/)
+MongoDB: [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+SQL Server: [![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)](https://www.microsoft.com/en-us/sql-server)
+Oracle: [![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)](https://www.oracle.com/)
+Docker: [![Docker](https://img.icons8.com/color/48/000000/docker.png)](https://www.docker.com/)
+Kubernetes: [![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)](https://kubernetes.io/)
+Google Cloud Platform (GCP): [![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png)](https://cloud.google.com/)
+Amazon Web Services (AWS): [![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)](https://aws.amazon.com/)
