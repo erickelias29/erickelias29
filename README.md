@@ -66,7 +66,7 @@
       </td>
       <td width="25%" align="center">
         <span>SQLServer</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.com/free-icon/sql-server_5968364?term=sql+server&page=1&position=1&origin=tag&related_id=5968364`">
+        <img height="64px" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server">
       </td>
     </tr>
   </tbody>
