@@ -17,3 +17,4 @@
 [](https://img.icons8.com/color/48/000000/kubernetes.png)]
 [](https://img.icons8.com/color/48/000000/google-cloud-platform.png)]
 [](https://img.icons8.com/color/48/000000/amazon-web-services.png)]
+Amazon Web Services (AWS): [![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)](https://aws.amazon.com/)
