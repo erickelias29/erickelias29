@@ -4,20 +4,16 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      <td width="25%" align="center">        
+        <img height="64px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      <td width="25%" align="center">        
+        <img height="64px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      <td width="25%" align="center">        
+        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -58,3 +54,4 @@
     </tr>
   </tbody>
 </table>
+
