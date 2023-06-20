@@ -1,4 +1,4 @@
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
@@ -22,41 +22,58 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/css/css-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/html/html-icon.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <span>Kubernetes</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>SQLServer</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg">
       </td>
     </tr>
   </tbody>
 </table>
-
 
