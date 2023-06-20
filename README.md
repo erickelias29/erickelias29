@@ -6,9 +6,9 @@ En este repositorio encontrarás una colección de mis proyectos de programació
 
 A continuación, se muestran los lenguajes de programación utilizados en mis proyectos:
 
-- <i class="fab fa-python"></i> Python
-- <i class="fab fa-js"></i> JavaScript
-- <i class="fab fa-java"></i> Java
+- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- Java ![Java](https://img.icons8.com/color/48/000000/java.png)
 
 ## Cómo ejecutar los proyectos
 
@@ -20,4 +20,4 @@ Cada proyecto tiene su propia documentación y guía de instalación. Asegúrate
 
 ---
 
-<i>Este archivo README se creó utilizando Markdown y los íconos de Font Awesome.</i>
+*Este archivo README se creó utilizando Markdown y los íconos de [Icons8](https://icons8.com/).*
