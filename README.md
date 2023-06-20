@@ -29,11 +29,11 @@
       </td>
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
-        <img  src="https://www.vectorlogo.zone/logos/css/css-icon.svg">
+        <img  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
       </td>
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
-        <img  src="https://www.vectorlogo.zone/logos/html/html-icon.svg">
+        <img  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
       </td>
     <tr valign="top">
       <td width="25%" align="center">
@@ -52,8 +52,6 @@
         <span>PostgreSQL</span><br><br><br>
         <img  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>MongoDB</span><br><br><br>
         <img  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
@@ -68,7 +66,7 @@
       </td>
       <td width="25%" align="center">
         <span>SQLServer</span><br><br><br>
-        <img  src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg">
+        <img  src="https://www.flaticon.com/free-icon/sql-server_5968364?term=sql+server&page=1&position=1&origin=tag&related_id=5968364`">
       </td>
     </tr>
   </tbody>
