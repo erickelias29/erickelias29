@@ -29,7 +29,7 @@
       </td>
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
       </td>
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
