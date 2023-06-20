@@ -1,27 +1,23 @@
-<head>
-  ...
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-  ...
-</head>
+# Mi Repositorio de Proyectos
 
-### Hi there 👋
+En este repositorio encontrarás una colección de mis proyectos de programación.
 
 ## Lenguajes de programación
 
+A continuación, se muestran los lenguajes de programación utilizados en mis proyectos:
+
 - <i class="fab fa-python"></i> Python
 - <i class="fab fa-js"></i> JavaScript
-- Java
-<!--
-**erickelias29/erickelias29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <i class="fab fa-java"></i> Java
 
-Here are some ideas to get you started:
+## Cómo ejecutar los proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cada proyecto tiene su propia documentación y guía de instalación. Asegúrate de seguir los pasos indicados en cada proyecto para ejecutarlo correctamente.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas colaborar en alguno de los proyectos, no dudes en abrir un pull request. Asegúrate de seguir las pautas de contribución establecidas en el repositorio.
+
+---
+
+<i>Este archivo README se creó utilizando Markdown y los íconos de Font Awesome.</i>
