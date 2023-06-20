@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Lenguajes de programación
+
+- <i class="fab fa-python"></i> Python
+- <i class="fab fa-js"></i> JavaScript
+- Java
 <!--
 **erickelias29/erickelias29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
