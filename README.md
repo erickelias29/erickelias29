@@ -1,11 +1,11 @@
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>JAVA</span><br><br><br>
-        <img height="64px" src="[https://www.vectorlogo.zone/logos/java/java-icon.svg](https://www.vectorlogo.zone/logos/java/java-ar21.svg)">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="[https://www.vectorlogo.zone/logos/java/java-icon.svg]">
       </td>
       <td width="25%" align="center">
         <span>Typescript</span><br><br><br>
