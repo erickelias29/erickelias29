@@ -29,7 +29,7 @@
       </td>
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
@@ -62,7 +62,7 @@
       </td>
       <td width="25%" align="center">
         <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
       </td>
       <td width="25%" align="center">
         <span>SQLServer</span><br><br><br>
