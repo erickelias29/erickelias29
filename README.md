@@ -1,5 +1,5 @@
 <h2 align="center"> Hey! 👋 <br/> </h2> 
-<h2 align="center"> ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <br/> </h2> 
+<h2 align="center"> ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸 <br/> </h2> 
 
 <table align="center">
   <tbody>
